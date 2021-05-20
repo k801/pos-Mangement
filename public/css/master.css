@@ -1,0 +1,46 @@
+
+.modal.left .modal-dialog{
+
+        position: absolute;
+        top:0px;
+        margin: 0px;
+
+        left:0px;
+    }
+    .modal.left .modal-dialog .modal-content{
+        min-height: 100vh;
+        font-size: 20px;font-weight: bolder;
+
+    }
+    #staticBackdropLabel{
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        font-weight: bolder
+    }
+#sidebar ul.lead{
+
+border-bottom: 1px solid #47748b;
+width: fit-content;
+}
+#sidebar ul li a{
+padding: 10px;
+font-size: 1.1em;
+display: block;
+width: 30vh;
+color: #008B8B;
+}
+
+#sidebar ul li a:hover{
+background-color: #008B8B;
+color:#fff;
+text-decoration: none;
+}
+.navbar .btn-outline{
+border-color: #008B8B;
+color:#008B8B;
+}
+
+.navbar .btn-outline:hover{
+background-color: #008B8B;
+color:#fff;
+}
